@@ -1,0 +1,13 @@
+- WM
+	- [[i3]]
+	- [[Polybar]]
+-  Terminal
+	- [[Git]]
+	- [[Ghostty]]
+	- [[ZSH]]
+- Code
+	- [[VSCode]]
+	- [[Docker]]
+- Misc
+	- [[Spotify]]
+	- [[Discord]]

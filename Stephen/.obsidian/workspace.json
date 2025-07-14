@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "fd4dde08e3f4a97e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff0dab20caf06062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "639c60e883ad08da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New OS setup/Ubuntu/Terminal/Ghostty.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ghostty"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43f7f0be1615f39a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aaf215873c4ff7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcbb45b48b100434",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53e2c3cab865873c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ea02e5b3a4f1f834",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d69444aa8ad2f798",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d4c332c85079c83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c1b68092ec122cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "New OS setup/Ubuntu/Terminal/ZSH.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ZSH"
+            }
+          },
+          {
+            "id": "48245c6469079563",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "63dab9641cc38d13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a4475a0764dc678e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "639c60e883ad08da",
+  "lastOpenFiles": [
+    "New OS setup/Summary.md",
+    "Welcome.md",
+    "New OS setup/Ubuntu/WM/i3.md",
+    "New OS setup/Ubuntu/WM/Polybar.md",
+    "New OS setup/Ubuntu/WM",
+    "New OS setup/Ubuntu/Terminal/Git.md",
+    "New OS setup/Ubuntu/Terminal/ZSH.md",
+    "New OS setup/Ubuntu/Terminal/Spaceship.md",
+    "New OS setup/Ubuntu/Terminal/Oh My Zsh.md",
+    "New OS setup/Ubuntu/Terminal/Ghostty.md",
+    "New OS setup/Ubuntu/Misc/Spotify.md",
+    "New OS setup/Ubuntu/Misc/Discord.md",
+    "New OS setup/Ubuntu/Code/VSCode.md",
+    "New OS setup/Ubuntu/Code/Docker.md",
+    "New OS setup/Ubuntu/Code",
+    "New OS setup/Linux/Untitled.md",
+    "New OS setup/Ubuntu/Misc",
+    "create a link.md",
+    "New OS setup/Ubuntu/Terminal",
+    "New OS setup/Ubuntu",
+    "New OS setup/Linux.md",
+    "New OS setup"
+  ]
+}
