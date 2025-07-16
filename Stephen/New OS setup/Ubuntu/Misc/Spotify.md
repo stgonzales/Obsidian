@@ -1,3 +1,3 @@
 ```bash
-sudo snap install spotify --classic
+sudo snap install spotify
 ```

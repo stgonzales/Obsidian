@@ -1,3 +1,3 @@
 ```bash
-sudo snap install docker --classic
+sudo snap install docker
 ```

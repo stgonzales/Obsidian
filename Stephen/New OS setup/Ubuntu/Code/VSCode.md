@@ -1,3 +1,3 @@
 ```bash
-sudo snap isntall vscode --classic
+sudo snap isntall code --classic
 ```

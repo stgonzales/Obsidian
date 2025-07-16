@@ -19,3 +19,5 @@
 - Misc
 	- [[Spotify]]
 	- [[Discord]]
+- Browser
+	- [[Zen]]

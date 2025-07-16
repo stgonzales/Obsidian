@@ -1,3 +1,3 @@
 ```bash
-sudo snap install discord --classic
+sudo snap install discord
 ```
