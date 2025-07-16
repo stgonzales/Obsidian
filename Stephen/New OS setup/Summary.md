@@ -5,6 +5,7 @@
 	- [[Git]]
 	- [[Ghostty]]
 	- [[ZSH]]
+	- [[Git CLI]]
 - Code
 	- [[VSCode]]
 	- [[Docker]]
