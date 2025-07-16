@@ -6,6 +6,13 @@
 	- [[Ghostty]]
 	- [[ZSH]]
 	- [[Git CLI]]
+- Runtimes
+	- [[NVM]]
+	- [[Deno]]
+	- [[Bun]]
+- Package Managers
+	- [[Yarn]]
+	- [[Pnpm]]
 - Code
 	- [[VSCode]]
 	- [[Docker]]

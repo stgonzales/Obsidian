@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf5722695ad3d524",
+        "id": "ce142fc8ddfb74f4",
         "type": "tabs",
         "children": [
           {
-            "id": "eaba4d33f2f538eb",
+            "id": "d81fd010602610e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "New OS setup/Ubuntu/Runtimes/Deno.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Deno"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New OS setup/Ubuntu/Terminal/ZSH.md",
+                "file": "New OS setup/Ubuntu/Runtimes/Deno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ZSH"
+              "title": "Backlinks for Deno"
             }
           },
           {
@@ -164,11 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaba4d33f2f538eb",
+  "active": "d81fd010602610e4",
   "lastOpenFiles": [
+    "New OS setup/Ubuntu/Runtimes/Bun.md",
+    "New OS setup/Ubuntu/Package Managers/Pnpm.md",
+    "New OS setup/Ubuntu/Package Managers/Yarn.md",
+    "New OS setup/Ubuntu/Runtimes/NVM.md",
+    "New OS setup/Ubuntu/Runtimes/Deno.md",
+    "New OS setup/Summary.md",
+    "New OS setup/Ubuntu/Runtimes",
+    "New OS setup/Ubuntu/Package Managers",
+    "New OS setup/Ubuntu/Untitled.md",
     "New OS setup/Ubuntu/Terminal/Git CLI.md",
     "New OS setup/Ubuntu/Terminal/Ghostty.md",
-    "New OS setup/Summary.md",
     "Welcome.md",
     "New OS setup/Ubuntu/WM/i3.md",
     "New OS setup/Ubuntu/WM/Polybar.md",
